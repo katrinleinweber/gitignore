@@ -1,0 +1,18 @@
+
+# descriptions
+*.md
+
+# unit tests
+test/
+*.spec.*
+*Test.ceylon
+*_test.py
+*tests.*
+test_*.*
+
+# project files
+c/*/makefile
+*.*proj
+*.yaml
+project.*
+CMakeLists.txt
